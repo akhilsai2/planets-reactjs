@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.planet {
+  width: 300px;
+}
+.item-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.item-head {
+  color: #f8fafc;
+  font-size: 25px;
+  font-family: 'roboto';
+}
+.item-para {
+  color: #f1f5f9;
+  font-size: 13px;
+  font-family: 'Roboto';
+  text-align: center;
+}
